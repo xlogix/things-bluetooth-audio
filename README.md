@@ -20,5 +20,5 @@ If you prefer to run on the command line, type
 
 ```bash
 ./gradlew installDebug
-adb shell am start com.example.androidthings.bluetooth.audio/.A2dpSinkActivity
+adb shell am start me.xlogix.thingsbluetoothaudio/.A2dpSinkActivity
 ```
